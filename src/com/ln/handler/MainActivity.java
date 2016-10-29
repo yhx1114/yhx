@@ -24,7 +24,7 @@ public class MainActivity extends Activity implements OnClickListener {
 	private InnerHandler handler;
 	private static final int MESSAGE_UPDATE_START = 0;
 	private static final int MESSAGE_UPDATE_FINISH = 1;
-
+	///asdfffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
